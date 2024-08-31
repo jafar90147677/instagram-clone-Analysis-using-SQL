@@ -1,4 +1,4 @@
-# instagram-clone-Analysis-using-SQL
+# instagram-clone-Analysis-using-SQL project-1
 
 # Database Design:
 
